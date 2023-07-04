@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color: #ff8fb1;
+}
+
+h1{
+  font-size: 6rem;
+  font-weight: 900;
+  font-style: oblique;
+  margin: 3rem 0 3rem;
+}
+
+img{
+  width: 256px;
+}
+
+.container{
+  text-align: center;
+}
+
+.space{
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+}
+
+footer{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
